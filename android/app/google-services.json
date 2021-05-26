@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370609110949",
+    "project_id": "blueartdigitalwallet",
+    "storage_bucket": "blueartdigitalwallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370609110949:android:e8f674d74c7194291cb24c",
+        "android_client_info": {
+          "package_name": "com.avinetech.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370609110949-eaf0sfp0mepkjscsiu99d3l03a7e9gjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsgDCCJRxqghSt6rssw_lhYCWE8O_9bvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370609110949-eaf0sfp0mepkjscsiu99d3l03a7e9gjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
