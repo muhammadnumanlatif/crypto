@@ -1,14 +1,17 @@
 //*utils
 import '../../utils/utils.dart';
 
-class HomePage extends StatelessWidget {
-  const HomePage({Key? key}) : super(key: key);
+class HomePage extends StatefulWidget {
+  @override
+  _HomePageState createState() => _HomePageState();
+}
 
+class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(
-        child: "Hello".text.xl2.makeCentered(),
+          body: Container(
+        child: 'Home'.text.black.xl4.makeCentered(),
       ),
     );
   }

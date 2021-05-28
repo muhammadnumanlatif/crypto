@@ -2,6 +2,8 @@
 export 'package:flutter/material.dart';
 //*third party
 export 'package:velocity_x/velocity_x.dart';
+export 'package:firebase_auth/firebase_auth.dart';
+export 'package:firebase_core/firebase_core.dart';
 //*core
 export '../core/core.dart';
 //*models
