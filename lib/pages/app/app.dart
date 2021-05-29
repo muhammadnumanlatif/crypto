@@ -1,4 +1,3 @@
-//*utils
 import '../../utils/utils.dart';
 
 class MyApp extends StatelessWidget {
